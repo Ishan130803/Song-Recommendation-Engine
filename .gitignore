@@ -1,0 +1,5 @@
+songs/
+.env
+.cache
+oauth.json
+.venv/
