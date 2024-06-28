@@ -3,3 +3,4 @@ songs/
 .cache
 oauth.json
 .venv/
+temp/
